@@ -1,0 +1,2 @@
+select CompanyName
+from Company;

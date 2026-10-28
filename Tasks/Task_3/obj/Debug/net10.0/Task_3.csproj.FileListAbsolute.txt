@@ -1,0 +1,15 @@
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\bin\Debug\net10.0\Task_3.exe
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\bin\Debug\net10.0\Task_3.deps.json
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\bin\Debug\net10.0\Task_3.runtimeconfig.json
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\bin\Debug\net10.0\Task_3.dll
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\bin\Debug\net10.0\Task_3.pdb
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.AssemblyInfoInputs.cache
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.AssemblyInfo.cs
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.dll
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\refint\Task_3.dll
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.pdb
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.genruntimeconfig.cache
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\ref\Task_3.dll
+C:\Study\МДК.04.01(Гербер)\Задачи\Tasks\Task_3\obj\Debug\net10.0\Task_3.csproj.Up2Date
